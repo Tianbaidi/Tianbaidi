@@ -1,4 +1,4 @@
-## Hi there 👋
+## 全体目光向我看齐，我就是个傻逼！
 
 <!--
 **Tianbaidi/Tianbaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
