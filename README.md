@@ -1,6 +1,7 @@
 ### Hi there, I'm Zhan Yang 👋
 
 > 💡 **“聪明在于勤奋，天才在于积累。” —— 华罗庚**
+> 
 > **Intelligence lies in diligence, genius in accumulation.**
 
 ---
